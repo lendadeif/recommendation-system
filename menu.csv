@@ -1,0 +1,47 @@
+item_ID,ItemName,SellPrice,ItemType,Category
+113708,JOG,160.0,1,main
+113709,Jvolt,165.0,1,drink
+113710,Jnash,190.0,1,main
+113711,WildEpic,210.0,1,main
+113712,WildBlaze,210.0,1,main
+113713,WildNash,250.0,1,main
+113714,4PcOG,220.0,1,main
+113715,4PcVolt,220.0,1,drink
+113716,4PcNash,280.0,1,main
+113717,8PcOG,440.0,1,main
+113718,8PcNash,560.0,1,main
+113719,8PcVolt,440.0,1,drink
+113723,3PC OG,300.0,1,main
+113724,3PC VOLT,300.0,1,drink
+113725,3PC NASH,380.0,1,main
+113732,MUSHROOMS,30.0,2,side
+113733,SMOKED TURKY,40.0,2,main
+113734,BEEF BACON,50.0,2,main
+113735,CHEESE BOOM,60.0,2,side
+113736,EXTRA Sauce,25.0,2,side
+113737,Mozzarella Stick,20.0,2,side
+113738,Cheddar Bite,30.0,2,side
+113739,Jalapeno Cheddar Bite,30.0,2,side
+113740,Drippin Cheddar Fries,65.0,1,side
+113741,TNT Fries,125.0,1,side
+113742,French Fries,35.0,1,side
+113743,Curly Fries,40.0,1,side
+113745,FRISKES,70.0,1,side
+113746,Cheesy Waffle'd,80.0,1,main
+113747,ONION RINGS,55.0,1,side
+113748,MOZZARELLA STICKS,65.0,1,side
+113749,CHICKEN POPS,120.0,1,main
+113750,JALAPENO BITES,120.0,1,side
+113751,CHEDDAR BITES,120.0,1,side
+113752,HOT DOG SPRING ROLLS,125.0,1,side
+113753,Cheese Spring Rolls,125.0,1,side
+113754,Cheese HotDog Spring Rolls,130.0,1,side
+113755,Chicken Kiev,140.0,1,main
+113757,v7 cola,35.0,1,drink
+113758,Big Cola,20.0,1,drink
+113759,Green cola,35.0,1,drink
+113761,Double dare,30.0,1,drink
+113763,Water small,10.0,1,drink
+113764,Maxi Cola,25.0,1,drink
+125541,WILD SIZE Sauce,50.0,1,side
+125542,Mega Drip,125.0,1,side
